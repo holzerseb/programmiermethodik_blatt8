@@ -1,0 +1,21 @@
+[INFO] Set Maximum Jokes Count to 539
+[INFO] Testing readUrl-Method
+{ "type": "success", "value": { "id": 259, "joke": "When Chuck Norris does division, there are no remainders.", "categories": [] } }
+
+[INFO] Printing random joke without name
+[JOKE] In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+[INFO] Printing random joke with name "Queen Elizabeth"
+[JOKE] Queen Elizabeth won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
+
+[INFO] Printing joke with number 219, without name
+[JOKE] Chuck Norris does not own a house. He walks into random houses and people move.
+[INFO] Printing joke with number 209, with name "Queen Elizabeth"
+[JOKE] That's not Queen Elizabeth doing push-ups -- that's Queen Elizabeth moving the Earth away from the path of a deadly asteroid.
+
+[INFO] Printing random joke by category "nerdy" without name
+[JOKE] Chuck Norris does infinit loops in 4 seconds.
+[INFO] Printing random joke by category "nerdy" with name "Queen Elizabeth"
+[JOKE] Queen Elizabeth can't test for equality because he has no equal.
+
+
+Process finished with exit code 0
